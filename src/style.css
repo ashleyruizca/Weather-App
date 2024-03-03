@@ -1,5 +1,6 @@
 body {
   background: linear-gradient(-225deg, #5d9fff 0%, #b8dcff 48%, #6bbbff 100%);
+  font-family: "Roboto Slab", serif;
 }
 
 .weather-app {
