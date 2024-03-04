@@ -1,5 +1,5 @@
 body {
-  background: #bef2ff;
+  background: #93deff;
   font-family: "Roboto Slab", serif;
 }
 a {
@@ -33,7 +33,7 @@ header {
 
 .search-form-botton {
   background-color: #f6f6f6;
-  padding: 17px 25px;
+  padding: 15px 22px;
   margin-left: 5px;
   border: none;
   font-size: 16px;
