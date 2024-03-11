@@ -115,10 +115,6 @@ main {
   justify-content: center;
 }
 
-.weather-forecast-temperature {
-  padding: 0 10px;
-}
-
 footer {
   border-top: 1px solid
     linear-gradient(-225deg, #5d9fff 0%, #b8dcff 48%, #6bbbff 100%);
